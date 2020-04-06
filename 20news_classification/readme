@@ -1,3 +1,7 @@
 
 
 This repo has TRAIN & TEST dataset for training & testing News TOPIC classification model.
+There are total 20 News TOPIC (20 folders) and each folder has 1000 news article inside it.
+
+We can pick only few folders (classes to predict) and build NLP models instead of using all 20 classes.
+
